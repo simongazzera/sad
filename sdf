@@ -1,0 +1,7 @@
+# Ensure NodeJS is downloaded: https://nodejs.org/en/download/
+git clone https://github.com/brownhci/WebGazer.git
+cd WebGazer
+#install the dependencies
+npm install
+#build the project
+npm run build
